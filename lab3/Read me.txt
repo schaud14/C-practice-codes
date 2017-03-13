@@ -1,0 +1,14 @@
+Instrutions:
+
+To compile run and clean in single run use:
+	make 
+
+To Compile the code use:
+	make complile
+
+To run the code use:
+	make run
+	
+To clean the executables use:
+	make clean
+
